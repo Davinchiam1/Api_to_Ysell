@@ -5,7 +5,7 @@ This project facilitates connecting and collecting data from services via API an
 ## Key Features
 
 1. **Usell Service Integration:**
-   - Receive data from the Usell service.
+   - Receive data from the Ysell service.
    - Load data into a database or file.
 
 2. **Keppa Service Integration:**
